@@ -21,11 +21,11 @@ The goals / steps of this project are the following:
 [image5]: ./writeup_images/rotated_image.JPEG "Rotated Image"
 [image6]: ./writeup_images/YUV_image.JPEG "YUV image"
 [image7]: ./writeup_images/loss_graph.JPEG "Loss Graph"
-[image8]: ./writeup_images/Train_network.JPEG "Training Strategy"
+[image8]: ./writeup_images/Train_network.JPG "Training Strategy"
 [image9]: ./writeup_images/simaulator_testing.JPG "Simulator Testing"
-[image10]: ./writeup_images/center.JPG "Center Image"
-[image11]: ./writeup_images/left.JPG "Left Image"
-[image12]: ./writeup_images/right.JPG "Right Image"
+[image10]: ./writeup_images/center.jpg "Center Image"
+[image11]: ./writeup_images/left.jpg "Left Image"
+[image12]: ./writeup_images/right.jpg "Right Image"
 [image13]: ./writeup_images/YUV_image_1.JPEG "Color Conversion"
 
 ## Rubric Points
@@ -241,8 +241,8 @@ python drive_updated.py model_v2.0.h5
 
 Track 1:
 
-output of track 1 is [here](Submission_1/track1_output.mp4)
+output of track 1 is [here](Output_Video/track1_output.mp4)
 
 Track 2
 
-output of track 2 is [here](Submission_1/track2_output.mp4)
+output of track 2 is [here](Output_Video/track2_output.mp4)
