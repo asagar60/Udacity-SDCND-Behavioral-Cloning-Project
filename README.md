@@ -1,8 +1,6 @@
 # Project: Build Behavioral Cloning Model
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-In this Project , we train a Deep Neural Network to learn how to drive a car like human.
-
 Overview
 -------
 In this project , we will train a deep neural network to simulate human driving behavior.
